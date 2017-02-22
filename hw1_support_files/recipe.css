@@ -1,0 +1,40 @@
+/*
+Web Programming Step by Step, Homework 1: Recipe
+This file contains the stylistic information for my pie recipe page.
+*/
+
+abbr {
+	text-decoration: underline;
+}
+
+blockquote {
+	background-color: #FFFFA8;
+	font-style: italic;
+}
+
+body {
+	background-color: white;
+	color: #404040;
+	font-family: Georgia, Garamond, serif;
+	font-size: 11pt;
+}
+
+h1, h2, a {
+	color: #A4A400;
+}
+
+h1, h2 {
+	background-color: #F0F0F0;
+	font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
+	text-decoration: underline;
+}
+
+h1 {
+	font-size: 22pt;
+	text-align: center;
+}
+
+h2 {
+	font-size: 18pt;
+	font-weight: normal;
+}
