@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 0.25em;
 }
 
-h2 > span, h1 > span {
+#inlinecolor {
 	background-color: #F0F0F0;
 }
 
