@@ -19,11 +19,11 @@ body {
 	font-size: 11pt;
 }
 
-h1, h2, a {
+h1, h2, h3, h4, h5, h6, a {
 	color: #A4A400;
 }
 
-h1, h2 {
+h1, h2, h3, h4, h5, h6 {
 	background-color: #F0F0F0;
 	font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
 	text-decoration: underline;
