@@ -38,3 +38,7 @@ h2 {
 	font-size: 18pt;
 	font-weight: normal;
 }
+
+pre {
+    font-family: "Courier New", Courier, monospace; 
+}
