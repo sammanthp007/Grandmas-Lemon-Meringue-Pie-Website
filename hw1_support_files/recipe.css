@@ -17,7 +17,7 @@ body {
 	color: #404040;
 	font-family: Georgia, Garamond, serif;
 	font-size: 11pt;
-    background-image: url("hw1_support_files/silverware.jpg");
+    background-image: url("silverware.jpg");
     background-repeat: repeat;
 }
 
@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 0.25em;
 }
 
-#inlinecolor {
+.inlinecolor {
 	background-color: #F0F0F0;
 }
 
@@ -50,7 +50,7 @@ pre {
 }
 
 ul {
-    list-style-image: url("hw1_support_files/pie_icon.gif");
+    list-style-image: url("pie_icon.gif");
 }
 
 #strike {
